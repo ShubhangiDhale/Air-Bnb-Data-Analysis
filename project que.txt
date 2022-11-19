@@ -1,0 +1,23 @@
+Q1 )  How many neighbourhood per neighbourhood_group
+Q2 )  Roomtype per neighbourhood_group
+Q3 )  Roomtype per neighbourhood
+Q4 )  which room type has highest price rate?
+Q5 )  which  neighbourhood_group has the highest staying rate/count(minimum_nights)
+Q6 )  which roomtype is more preferable by the users
+Q7 )
+Q8 )  which Top 10 neighbourhood has highest price rate?
+Q9 ) 
+Q10) Total no.of reviews per neighbourhood_group?
+Q11) Which neighbourhood_group has highest no.of day availability rate?
+Q12) 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+Q1) Which Neighbourhood_Group has highest Properties?
+Q2) Top 10 Property holder in each Neighbourhood?
+Q3) Total Count of Room Type in each Neighbourhood_Group?
+Q4) Most Expensive Room type?
+Q5) Most Popular Room Type?
+Q6) Total Reviews per Neighbourhood_Group?
+Q7) Top 10 Host who has most Earning?
+Q8) What is relation between Price and Earning?
+Q9) Which Year has Highest Earning?
+Q10) Top N host name who got highest reviews
